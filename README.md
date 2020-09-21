@@ -7,4 +7,4 @@
 <p>Learning center for my personal studies</p>
 
 # Table of contents
-* [Next SSR](./apps/nextssr)
+* [Next SSR](./apps/nextssr/README.md)
